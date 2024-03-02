@@ -1,7 +1,6 @@
 # Smart Home Controller
 
 This Python script is designed to control various devices connected to a Raspberry Pi, such as LED lights, a buzzer, and a fan. The project provides a graphical user interface (GUI) built using the Tkinter library to interact with these devices.
-![Smart_Home](https://github.com/Ahmed00Gaber/Smart_Home_RPI_Tkinter/assets/113920593/82260709-f2f5-425d-b0d1-776b4e585d84)
 
 ## Features
 
