@@ -33,10 +33,4 @@ To use the Smart Home Controller:
 - Buzzer pin: 15
 - Fan pin: 18
 
-## LCD Module
 
-This script utilizes an LCD module for displaying the current time and alarm information. The LCD module functions are assumed to be provided in a separate `LCD.py` file.
-
-## GUI Components
-
-The GUI consists of buttons for controlling the LED light, fan, and setting alarms. It also includes entry fields for setting the alarm time and a button to display the current time.
